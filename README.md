@@ -53,4 +53,5 @@
 
 ## :eyes: Current overview
 
-### 🔭 Exploring - Now I'm exploring Next.js 
+### 🔭 I'm exploring - Next.js and Mongoose 
+### ⚡ I'm trying - To develop my skills
