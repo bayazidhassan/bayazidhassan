@@ -17,7 +17,11 @@
 
 ## :mailbox: Reach me out
 
-[<p align="center"><img height="75" src="/icons/facebook.png">](https://www.facebook.com/bayazidhassan11)[<img height="75" src="/icons/linkedin.png"></p>](https://www.linkedin.com/in/bayazidhassan/)
+[<p align="center">
+<img height="75" src="/icons/facebook.png">](https://www.facebook.com/bayazidhassan11)
+
+[<img height="75" src="/icons/linkedin.png">
+</p>](https://www.linkedin.com/in/bayazidhassan/)
 
 <br/>
 <br/>
