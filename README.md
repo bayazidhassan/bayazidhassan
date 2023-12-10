@@ -3,8 +3,10 @@
 [![Bayazid Hassan](/images//MERN.png "Bayazid Hassan")](https://www.facebook.com/bayazidhassan11)
 
 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula)](https://git.io/streak-stats" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula)](https://git.io/streak-stats)
 
 
 Here are some ideas to get you started:
