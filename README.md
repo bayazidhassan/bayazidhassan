@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://www.facebook.com/bayazidhassan11">
 <img height="75" src="/icons/facebook.png" alt="Facebook">
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bayazidhassan/">
 <img height="75" src="/icons/linkedin.png" alt="LinkedIn">
 </a>
