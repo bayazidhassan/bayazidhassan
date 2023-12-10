@@ -17,18 +17,14 @@
 
 ## :mailbox: Reach me out
 
-<div style="display: flex">
-  <p>
-    <a href="https://www.facebook.com/bayazidhassan11">
-      <img height="75" src="/icons/facebook.png" alt="Facebook">
-    </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/bayazidhassan/">
-      <img height="75" src="/icons/linkedin.png" alt="LinkedIn">
-    </a>
-  </p>
-</div>
+<p align="center">
+<a href="https://www.facebook.com/bayazidhassan11">
+<img height="75" src="/icons/facebook.png" alt="Facebook">
+</a>
+<a href="https://www.linkedin.com/in/bayazidhassan/">
+<img height="75" src="/icons/linkedin.png" alt="LinkedIn">
+</a>
+</p>
 
 <br/>
 <br/>
