@@ -22,9 +22,11 @@
 <img height="75" src="/icons/linkedin.png" alt="LinkedIn">
 </a>
 </p>
+<p align="center">
 <a href="https://www.facebook.com/bayazidhassan11">
-<img height="75" src="/icons/facebook.png" alt="Facebook">&nbsp; &nbsp; &nbsp; 
+<img height="75" src="/icons/facebook.png" alt="Facebook">
 </a>
+</p>
 
 <br/>
 <br/>
