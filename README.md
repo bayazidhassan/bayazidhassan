@@ -22,6 +22,10 @@
 <a href="https://www.linkedin.com/in/bayazidhassan/">
 <img height="75" src="/icons/linkedin.png" alt="LinkedIn">
 </a>
+
+<a href="https://www.facebook.com/bayazidhassan11">
+<img height="75" src="/icons/facebook.png" alt="Facebook">&nbsp; &nbsp; &nbsp; 
+</a>
 </p>
 
 <br/>
