@@ -2,6 +2,11 @@
 
 [![Bayazid Hassan](/images//MERN.png "Bayazid Hassan")](https://www.facebook.com/bayazidhassan11)
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula)](https://git.io/streak-stats)
+
+
 Here are some ideas to get you started:
 
 * 🔭 I’m currently working on ...
