@@ -17,7 +17,7 @@
 
 ## :mailbox: Reach me out
 
-<div style="text-align: center">
+<div style="display: flex">
   <p style="display: inline-block; margin-right: 10px">
     <a href="https://www.facebook.com/bayazidhassan11">
       <img height="75" src="/icons/facebook.png" alt="Facebook">
