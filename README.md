@@ -17,7 +17,7 @@
 
 ## :mailbox: Reach me out
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/bayazidhassan11)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/bayazidhassan/)
+[<p align="center"><img height="75" src="/icons/facebook.png">](https://www.facebook.com/bayazidhassan11)[<img height="75" src="/icons/linkedin.png"></p>](https://www.linkedin.com/in/bayazidhassan/)
 
 <br/>
 <br/>
@@ -25,20 +25,20 @@
 ## :computer: Technologies that I know
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="/icons/HTML.png"/>
+<img src="/icons/css.png"/>
+<img src="/icons/JavaScript.png"/>
+<img src="/icons/python.png"/>
+<img src="/icons/c.png"/>
+<img src="/icons/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="/icons/react.png"/>
+<img src="/icons/node.png"/>
+<img src="/icons/express.png"/>
+<img src="/icons/mongo.png"/>
+<img src="/icons/tailwind.png"/>
+<img src="/icons/firebase.png"/>
 </p>
 
 <br/>
@@ -46,4 +46,4 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m exploring - Next.js 
+### 🔭 Exploring - Now I'm exploring Next.js 
