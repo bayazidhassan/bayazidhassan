@@ -1,12 +1,12 @@
-### Hi there 👋
+<img src="/images/cover-image.gif" />
 
-[![Bayazid Hassan](/images//MERN.png "Bayazid Hassan")](https://www.facebook.com/bayazidhassan11)
-
+<br/>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula" />
 </p>
 
+<br/>
 
 
 Here are some ideas to get you started:
