@@ -18,8 +18,8 @@
 ## :mailbox: Reach me out
 
 <p align="center">
-<a href="https://www.facebook.com/bayazidhassan11">
-<img height="75" style="margin-right: 100px" src="/icons/facebook.png">
+<a style="margin-right: 100px" href="https://www.facebook.com/bayazidhassan11">
+<img height="75" src="/icons/facebook.png">
 </a>
 <a href="https://www.linkedin.com/in/bayazidhassan/">
 <img height="75" src="/icons/linkedin.png">
