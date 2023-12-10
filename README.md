@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula)](https://git.io/streak-stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bayazidhassan&theme=dracula" />
 </p>
 
 
