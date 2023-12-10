@@ -1,4 +1,6 @@
+<a href="https://www.facebook.com/bayazidhassan11">
 <img src="/images/cover-image.gif" />
+</a>
 
 <br/>
 
@@ -7,7 +9,6 @@
 </p>
 
 <br/>
-
 
 Here are some ideas to get you started:
 
