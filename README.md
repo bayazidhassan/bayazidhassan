@@ -3,7 +3,8 @@
 </a>
 
 
-
+</br>
+</br>
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
@@ -12,16 +13,16 @@
 
 
 
-
-
+</br>
+</br>
 ## :mailbox: Reach me out
 
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/bayazidhassan/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></p>](https://www.facebook.com/bayazidhassan11)
 
 
 
-
-
+</br>
+</br>
 ## :computer: Technologies that I know
 
 <p align="center">
@@ -43,7 +44,8 @@
 
 
 
-
+</br>
+</br>
 ## :eyes: Current overview
 
 ### 🔭 I’m exploring - Next.js 
