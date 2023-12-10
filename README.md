@@ -18,11 +18,11 @@
 ## :mailbox: Reach me out
 
 <p align="center">
-<a style="margin-right: 100px" href="https://www.facebook.com/bayazidhassan11">
-<img height="75" src="/icons/facebook.png">
+<a href="https://www.facebook.com/bayazidhassan11">
+<img height="75" src="/icons/facebook.png" alt="Facebook" style="margin-right: 10px; ">
 </a>
 <a href="https://www.linkedin.com/in/bayazidhassan/">
-<img height="75" src="/icons/linkedin.png">
+<img height="75" src="/icons/linkedin.png" alt="LinkedIn">
 </a>
 </p>
 
